@@ -1,0 +1,9 @@
+
+Financial Analysis
+-------------------------------------------------
+Total Months: 86
+Total: $38382578
+Average of the changes: $-426534.65882352943
+Greatest increase: $302709 on Feb-2012
+Greatest decrease: $-2064109 on Sep-2013
+--------------------------------------------------
